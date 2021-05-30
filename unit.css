@@ -1,0 +1,17 @@
+html {
+  font-size: 16px;
+}
+
+.padding_left {
+  padding-left: 300px;
+}
+
+.padding_right {
+  padding-right: 300px;
+}
+
+.font_size {
+  font-size: 2rem;
+}
+
+/* convert px to rem using sass/less */
